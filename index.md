@@ -164,11 +164,7 @@ style: |
   }
 ---
 
-<!-- _class: cover -->
 
-<div class="sidebar">
-
-<div class="avatar">👤</div>
 
 **Ramiro Alexander**
 *Puma Ramirez*
