@@ -204,9 +204,7 @@ style: |
 - Comunicación efectiva
 - Aprendizaje autónomo
 
-</div>
 
-<div class="main-content">
 
 # Ramiro Alexander Puma Ramirez
 
